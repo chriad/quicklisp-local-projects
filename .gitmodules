@@ -1,3 +1,6 @@
-[submodule "base64"]
-	path = base64
-	url = ./base64/
+[submodule "let-over-lambda"]
+	path = let-over-lambda
+	url = https://github.com/thephoeron/let-over-lambda.git
+[submodule "binding-arrows"]
+	path = binding-arrows
+	url = https://github.com/phoe/binding-arrows.git
