@@ -4,3 +4,6 @@
 [submodule "binding-arrows"]
 	path = binding-arrows
 	url = https://github.com/phoe/binding-arrows.git
+[submodule "legochain"]
+	path = legochain
+	url = https://github.com/defunkydrummer/legochain.git
