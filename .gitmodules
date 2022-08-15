@@ -37,3 +37,6 @@
 [submodule "printv"]
 	path = printv
 	url = https://github.com/danlentz/printv.git
+[submodule "lml"]
+	path = lml
+	url = git://git.kpe.io/lml.git
