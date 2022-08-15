@@ -7,3 +7,33 @@
 [submodule "legochain"]
 	path = legochain
 	url = https://github.com/defunkydrummer/legochain.git
+[submodule "one-more-re-nightmare"]
+	path = one-more-re-nightmare
+	url = https://github.com/no-defun-allowed/one-more-re-nightmare.git
+[submodule "croatoan"]
+	path = croatoan
+	url = https://github.com/veddox/croatoan
+[submodule "gtwiwtg"]
+	path = gtwiwtg
+	url = https://github.com/cbeo/gtwiwtg.git
+[submodule "programming-algorithms-lisp"]
+	path = programming-algorithms-lisp
+	url = https://github.com/Apress/programming-algorithms-lisp.git
+[submodule "bps"]
+	path = bps
+	url = https://github.com/death/bps.git
+[submodule "on-lisp"]
+	path = on-lisp
+	url = https://github.com/DalekBaldwin/on-lisp.git
+[submodule "rutils"]
+	path = rutils
+	url = https://github.com/vseloved/rutils.git
+[submodule "snakes"]
+	path = snakes
+	url = https://github.com/BnMcGn/snakes.git
+[submodule "sha1"]
+	path = sha1
+	url = https://github.com/massung/sha1.git
+[submodule "printv"]
+	path = printv
+	url = https://github.com/danlentz/printv.git
