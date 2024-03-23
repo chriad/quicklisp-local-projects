@@ -40,3 +40,9 @@
 [submodule "lml"]
 	path = lml
 	url = git://git.kpe.io/lml.git
+[submodule "cl-repl"]
+	path = cl-repl
+	url = https://github.com/fstamour/cl-repl.git
+[submodule "cl-github"]
+	path = cl-github
+	url = https://github.com/40ants/cl-github.git

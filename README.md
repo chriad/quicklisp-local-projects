@@ -1,1 +1,1 @@
-# quicklisp-local-projects
+Just a backup, nothing to see here!
